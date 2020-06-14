@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974434498051",
+    "firebase_url": "https://heralda-42aca.firebaseio.com",
+    "project_id": "heralda-42aca",
+    "storage_bucket": "heralda-42aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974434498051:android:fc6bff127bc1782b65c036",
+        "android_client_info": {
+          "package_name": "com.example.herald_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974434498051-h6dqdcfn4nm30su5saq8gg7pcnfu1a21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herald_a",
+            "certificate_hash": "6930b2657c531069b1ad43e0e08536b38f50d673"
+          }
+        },
+        {
+          "client_id": "974434498051-rbmn9s07kammo1pkca5ga9froariap6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-_P1LD7ivP11VmM6TS8Dmp262FiOdfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974434498051-rbmn9s07kammo1pkca5ga9froariap6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
